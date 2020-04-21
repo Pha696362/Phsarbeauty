@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>803849102626-fem437q5r2p0djk2rvlaumuhp4merhft.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.803849102626-fem437q5r2p0djk2rvlaumuhp4merhft</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>803849102626-s9mgqu8chpc4auf8r9v4uamuvq3mlarc.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAfeyMnjRrpNwBw9qMpOmkX2EPBXCFI0yo</string>
+	<key>GCM_SENDER_ID</key>
+	<string>803849102626</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.phsartech.phsarbeauty</string>
+	<key>PROJECT_ID</key>
+	<string>phsarbeauty-ce3ed</string>
+	<key>STORAGE_BUCKET</key>
+	<string>phsarbeauty-ce3ed.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:803849102626:ios:325268578980ef961db17b</string>
+	<key>DATABASE_URL</key>
+	<string>https://phsarbeauty-ce3ed.firebaseio.com</string>
+</dict>
+</plist>

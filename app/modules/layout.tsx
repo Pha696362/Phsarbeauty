@@ -1,0 +1,100 @@
+import { Dimensions } from 'react-native';
+const { width: viewportWidth, height: viewportHeight } = Dimensions.get('window');
+
+export default {
+	GRID_SPACING: 8,
+	BODY_HORIZONTAL: 15,
+	BODY_HORIZONTAL_24: 24,
+	BODY_HORIZONTAL_ACTION: 30,
+	BODY_HORIZONTAL_18: 18,
+	BODY_HORIZONTAL_12: 12,
+	PADDING: 15,
+	MARGIN:25,
+	SPACE: 4,
+	SPACE5: 5,
+	BIG_SPACE: 6,
+	RADIUS: 6,
+	RADIUS_BUTTON: 50,
+	VIEW_PORT_WIDTH: viewportWidth,
+	VIEW_PORT_HEIGHT: viewportHeight,
+	PADDING_BAR: 45,
+	HEADER_ICON_BUTTON: 40,
+	CARD_HEADER: 120,
+	AVATAR_LIST: 38,
+	AVATAR_GRID: 65,
+	START_LINE_GRADIENT: { x: 0.25, y: 0 },
+	END_LINE_GRADIENT: { x: 0.5, y: 0.5 },
+	START_LINE_GRADIENT_V: { x: 0, y: 0.1 },
+	END_LINE_GRADIENT_V: { x: 1, y: 0.9 },
+	START_LINE_GRADIENT_V2: { x: 1, y: 0.5 },
+	END_LINE_GRADIENT_V2: { x: 1, y: 0 },
+	CARD: 350,
+	CARD_RADIUS: 12,
+	CARD_PENDING: 20,
+	FONT_H1: 34,
+	FONT_H2: 28,
+	FONT_H3: 22,
+	FONT_H4: 20,
+	FONT_H5: 17,
+	FONT_H6: 16,
+	FONT_P: 13,
+	FONT_S: 12,
+	SMALL: 11,
+	FONT: 15,
+	
+    CARD_VERTICAL: 6,
+    CARD_VERTICAL8: 8,
+    CARD_VERTICAL12: 12,
+    CARD_VERTICAL14: 14,
+    CARD_VERTICAL16: 16,
+    CARD_VERTICAL18: 18,
+    
+    CARD_RADIUS6: 6,
+    CARD_RADIUS8: 8,
+    CARD_RADIUS12: 12,
+    BUTTON_RADIUS: 50,
+
+    PADDING4: 4,
+    PADDING6: 6,
+    PADDING8: 8,
+    PADDING10: 10,
+    PADDING12: 12,
+    PADDING14: 14,
+   
+    PADDING20: 20,
+    PADDING25: 25,
+    PADDING30: 30,
+    PADDING35: 35,
+   
+
+    SPACE6: 6,
+    SPACE8: 8,
+    SPACE12: 12,
+    SPACE15: 15,
+    SPACE18: 18,
+    SPACE20: 20,
+    SPACE25: 25,
+    SPACE30: 30,
+
+
+   
+    FONT20: 20,
+    FONT18: 18,
+    FONT17: 17,
+   
+    FONT15: 15,
+   
+
+    FONT_BOLD: '700',
+    FONT_W6: '600',
+    FONT_W5: '500',
+
+    AVATAR: 18,
+    AVATAR20: 20,
+    AVATAR22: 22,
+    AVATAR24: 24,
+    AVATAR28: 28,
+    AVATAR42: 42,
+  
+    AVATAR_LIST30: 30,
+};

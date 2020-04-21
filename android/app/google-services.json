@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "803849102626",
+    "firebase_url": "https://phsarbeauty-ce3ed.firebaseio.com",
+    "project_id": "phsarbeauty-ce3ed",
+    "storage_bucket": "phsarbeauty-ce3ed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:803849102626:android:ac7db0efc5cfc4c81db17b",
+        "android_client_info": {
+          "package_name": "com.phsarbeauty"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "803849102626-s9mgqu8chpc4auf8r9v4uamuvq3mlarc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.phsarbeauty",
+            "certificate_hash": "c28b5bb8542f9386b7235b48e60daa75087a8319"
+          }
+        },
+        {
+          "client_id": "803849102626-sllgeqdepcml2rta0mf5pbc586kc5qm5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0MIkdwEcyttcQ-SzVA7k1Ef-eYYVcCvc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "803849102626-sllgeqdepcml2rta0mf5pbc586kc5qm5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "803849102626-9dssgm1m7vig9s4pa81lvh2m8ci954pu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.phsartech.phsarblog"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
